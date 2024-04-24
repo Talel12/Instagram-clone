@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_overview_companies",
+  "info": {
+    "displayName": "Company",
+    "icon": "attachment"
+  },
+  "options": {},
+  "attributes": {
+    "CompanyName": {
+      "type": "string"
+    }
+  }
+}

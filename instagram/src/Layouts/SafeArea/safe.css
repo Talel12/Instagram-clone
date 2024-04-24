@@ -1,0 +1,8 @@
+
+
+.safe-area{
+    width: 100vw;
+    height: fit-content;
+    min-height: 100vh;
+    padding-left: 10%;
+}

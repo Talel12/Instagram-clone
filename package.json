@@ -1,0 +1,22 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "description": "Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install:both": "cd instagram && npm i && cd ../instagram-backend && npm i",
+    "front": "cd instagram && npm start",
+    "back":" cd instagram-backend && npm run develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talel12/Instagram-clone.git"
+  },
+  "author": "Talel Ben Belgacem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talel12/Instagram-clone/issues"
+  },
+  "homepage": "https://github.com/Talel12/Instagram-clone#readme"
+}

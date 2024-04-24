@@ -1,0 +1,31 @@
+.auth-container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+}
+
+.cover-image{
+    width: 50%;
+    height: 80%;
+    /* background-color: rgb(51, 84, 113); */
+   position: relative;
+   background-image: url('C:\Users\ASUS\Desktop\Instagram Clone\instagram\src\Assets\images\cadre.png');
+   background-repeat: no-repeat;
+   background-position: right;
+   background-size:300px, 300px;
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+}
+
+#screenshot-cover{
+    height: 350px;
+    position: relative;
+    top: -14px;
+    right: 38px;
+} 
+
+.auth-login{
+    width: 50%;
+}

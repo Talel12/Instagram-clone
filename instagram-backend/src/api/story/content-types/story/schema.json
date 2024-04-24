@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stories",
+  "info": {
+    "singularName": "story",
+    "pluralName": "stories",
+    "displayName": "Story",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "videos"
+      ]
+    },
+    "user_profile": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "plugin::users-permissions.user"
+    },
+    "userName": {
+      "type": "string"
+    },
+    "isOpen": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
