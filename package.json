@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install:both": "cd instagram && npm i && cd ../instagram-backend && npm i",
-    "front": "cd instagram && npm start",
-    "back":" cd instagram-backend && npm run develop"
+    "install:both": "cd front && npm i && cd ../back && npm i",
+    "front": "cd front && npm start",
+    "back":" cd back && npm run develop"
   },
   "repository": {
     "type": "git",
