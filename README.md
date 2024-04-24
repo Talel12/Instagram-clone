@@ -1,5 +1,13 @@
 # 🚀 Getting started with Instagram Clone
 
+### `Clone application`
+
+clone the project in easy steps
+
+```
+git clone https://github.com/Talel12/Instagram-clone?tab=readme-ov-file
+```
+
 
 ### `Install Dependencies`
 

@@ -10,7 +10,7 @@
     height: 80%;
     /* background-color: rgb(51, 84, 113); */
    position: relative;
-   background-image: url('C:\Users\ASUS\Desktop\Instagram Clone\instagram\src\Assets\images\cadre.png');
+   background-image: url('../../Assets/images/cadre.png');
    background-repeat: no-repeat;
    background-position: right;
    background-size:300px, 300px;
