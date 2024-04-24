@@ -5,7 +5,7 @@
 clone the project in easy steps
 
 ```
-git clone https://github.com/Talel12/Instagram-clone?tab=readme-ov-file
+git clone https://github.com/Talel12/Instagram-clone
 ```
 
 
